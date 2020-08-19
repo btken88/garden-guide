@@ -42,7 +42,7 @@ main {
 .hero {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.7)),
-    url('./public/chantal-garnier-910GanwBoew-hero.jpg');
+    url('./chantal-garnier-910GanwBoew-hero.jpg');
   height: 80vh;
   width: 100%;
   background-size: cover;
